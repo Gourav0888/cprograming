@@ -1,2 +1,2 @@
-# cprograming
+# cprogramming
 Just few c programs.
